@@ -1,0 +1,6 @@
+name: SimpleChatColor
+version: '${version}'
+main: snw.scc.SimpleChatColor
+api-version: '1.20'
+authors: [SNWCreations]
+description: Just a simple plugin which could eval chat codes in your chat message.
